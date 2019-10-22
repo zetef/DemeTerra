@@ -1,0 +1,6 @@
+[submodule "libraries/hump"]
+	path = libraries/hump
+	url = https://github.com/vrld/hump
+[submodule "libraries/classic"]
+	path = libraries/classic
+	url = https://github.com/rxi/classic
